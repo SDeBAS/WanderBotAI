@@ -1,0 +1,23 @@
+chatbot_responses = {}
+
+def load_responses(responses):
+    global chatbot_responses
+    chatbot_responses = responses
+
+def chatbot_response(user_input):
+    # Preprocess user input (lowercase)
+    processed_input = '"'+user_input.lower()+'"'
+
+    # Retrieve the chatbot response from the chatbot_responses dictionary
+    bot_response=""
+    for k,v in chatbot_responses.items():
+        if k==processed_input:
+            bot_response=v.strip('"')
+            print(bot_response)
+            break
+    
+    if bot_response ==  "":
+        bot_response="I don't understand."
+   
+
+    return bot_response
