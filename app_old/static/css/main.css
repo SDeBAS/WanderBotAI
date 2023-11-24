@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.chat-container {
+    margin-top: 20px;
+    max-height: 400px; /* Adjust the maximum height as needed */
+    overflow-y: auto; /* Add a vertical scrollbar when content exceeds max height */
+    display: flex; /* Display items in a column */
+    flex-direction: column-reverse; /* Reverse the order of chat messages (new messages at the bottom) */
+}
+
+.chat-container .message {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    word-wrap: break-word; /* Wrap long words when they don't fit */
+}
+
+.user-message {
+    background-color: #1abc9c;
+    color: #fff;
+    align-self: flex-end; /* Move user messages to the right */
+}
+
+.bot-message {
+    background-color: #3498db;
+    color: #fff;
+    align-self: flex-start; /* Move bot messages to the left */
+}
+
+.user-input {
+    margin-top: 20px;
+    display: flex;
+}
+
+.user-input input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.user-input button {
+    background-color: #1abc9c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}

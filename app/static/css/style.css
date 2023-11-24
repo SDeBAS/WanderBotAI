@@ -43,8 +43,12 @@ h5,
 h6,
 .fw-medium {
     font-weight: 500 !important;
+    
 }
 
+h5{
+    padding-top: 3rem ;
+}
 
 /*** Button ***/
 .btn {
@@ -455,6 +459,7 @@ h6,
     transition: .5s;
     border: 1px solid transparent;
     transition: .5s;
+    
 }
 
 .team-item:hover {

@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from nltk.stem import WordNetLemmatizer
 
 # Load your data and perform any necessary preprocessing
-df = pd.read_csv('college.csv')
+df = pd.read_csv('data.csv')
 
 # Chatbot Function
 lemmatizer = WordNetLemmatizer()

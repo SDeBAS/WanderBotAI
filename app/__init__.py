@@ -10,7 +10,7 @@ app = Flask(__name__)
 # Load your data and perform any necessary preprocessing (if not already done in chatbot.py)
 
 # Example data loading:
-df = pd.read_csv('college.csv', encoding='latin1')  # or 'iso-8859-1', depending on the actual encoding of the CSV file
+df = pd.read_csv('data.csv', encoding='latin1')  # or 'iso-8859-1', depending on the actual encoding of the CSV file
 
 # Chatbot responses dictionary
 chatbot_responses = {}  # You can load your responses here

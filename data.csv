@@ -1,0 +1,229 @@
+Query,Response
+ How can I reach room 808 from the lifts? ," To reach room 808 from the lifts, take a right from lifts E and F, walk straight, then take a left, and you'll find room 808 on your right.                "
+" Which lifts stop at all floors, including the 10th floor? "," Lifts E and F are the only lifts that stop at all floors, including the 10th floor.             "
+ How do I get to the 5MCA A classroom?   , The 5MCA A classroom is assigned to room 808.                                                  
+ Where is room 809 located?              ," Room 809 is located right after room 808, if you walk straight. It is assigned to the 5MCA B classroom. There is a staircase to go upstairs right in front of room 809. In front of room 809 are lifts A and B. "
+ What can I find after room 810?         ," After room 810, you will find the gents washroom and then the ladies washroom. If you keep walking straight, you will reach room 811, which is the MCA lab.                     "
+ Where are the faculty rooms located?    ," The faculty rooms are located to your right as you walk straight from the gents washroom, past lifts C and D, and continue walking straight.                                   "
+ Which classrooms are assigned to 1MCA A and 1MCA B? ," Room 812 is assigned to 1MCA A, and room 813 is assigned to 1MCA B. You can find room 812 on your right and room 813 on your right as you move straight from the round table area.           "
+ Where can I sit and study peacefully?   ," You can sit and study peacefully at the round table area, which is located on your left as you move straight from room 813.                                        "
+ What is located after room 815?         ," After room 815, you will find the water filter to your left. But if you turn left from room 815 and walk straight, you will find lifts C and D.                         "
+ Lift E and Lift F    , Starting and ending point                                    
+ Lift A and Lift C    ," Stops at even floors: -2, -1, 0, 2, 4, 6, 8                 "
+ Lift B and Lift D    ," Stops at even floors: -2, -1, 0, 1, 3, 5, 7, 9              "
+ Lift E and Lift F    ," Stops at all floors: -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 "
+ Room 808             ," Right from lifts E and F, straight, left, and on the right                     "
+ Room 809             ," Straight, assigned to 5MCA B classroom                       "
+ Staircase (upstairs) , In front of Room 809                                         
+ Room 810             , After Room 809                                                
+ Faculty Rooms        , To the right after walking straight from gents washroom     
+ Room 812             ," Right, assigned to 1MCA A                                    "
+ Room 813             ," Right, assigned to 1MCA B                                    "
+ Round Table Area     ," Left, for peaceful studying                                  "
+ Room 814             ," Right, assigned to 1MSC AI classroom                         "
+ Room 815             ," Right, assigned to 1MCOM classroom                           "
+ Water Filter         , To the left after Room 815                                   
+ Lifts C and D        ," Left, after turning left from Room 815                       "
+ How many lifts are there in the building?               ," There are six lifts in the building, labeled as Lifts A, B, C, D, E, and F.                                               "
+ Which lifts stop at the 10th floor?                    , Only Lifts E and F stop at the 10th floor.                                                                              
+ Where is the 1MCOM classroom located?                 ," The 1MCOM classroom, room 815, is located after the water filter.                                                        "
+ Can you provide directions to the gents washroom?      ," The gents washroom is located after room 810, in front of lifts C and D.                                                 "
+ How can I access the MCA lab from the lifts?           ," To access the MCA lab (room 811) from the lifts, simply walk straight from Lift E and Lift F.                            "
+ Where is the staircase to go downstairs located?       , The staircase to go downstairs is in front of room 808.                                                                 
+ Which lifts stop at even floors only?                 ," Lifts A and Lift C stop at even floors only, including floors -2, -1, 0, 2, 4, 6, and 8.                                 "
+ How far is room 814 (1MSC AI classroom) from Lift E?   ," Room 814 (1MSC AI classroom) is located on the same path as Lift E and Lift F, as you move straight from them.          "
+ Are there any teachers' offices near room 810?         ," Yes, teachers like Nizar Banu Ma'am, Suresh Sir, can be found near room 810.                "
+ Where is the 5MCA B classroom located?     ," The 5MCA B classroom is located right after room 808, if you walk straight from Lift E and Lift F.  "
+ How do I reach the gents washroom from room 812? ," To reach the gents washroom from room 812, walk straight, pass room 813, and it will be on your right. "
+ What facilities are available in the round table area? , The round table area is a place where you can sit and study peacefully. No specific facilities are mentioned. 
+ How can I access the lifts C and D from room 815? ," To access lifts C and D from room 815, turn left and walk straight. You will find them on your left. "
+ Can you tell me the location of Lift B? ," Lift B is located right in front of room 809, after room 808 and 809. "
+ Where is the 1MCA A classroom in relation to the lifts? ," Room 812, assigned to 1MCA A, is located on your right as you move straight from the round table area, near lifts C and D. "
+ How can I find my way to the MCA lab (room 811) from room 810? ," To get to the MCA lab (room 811) from room 810, simply walk straight. It's on the same path. "
+ Which rooms are assigned to the faculty members you mentioned earlier? , The faculty rooms are located to the right of Lifts E and F. For specific room numbers specify faculty name.
+ Where are the ladies' washrooms located? ," Ladies' washrooms are found in front of room 813 and after room 815, as mentioned in the description. "
+ Are there any vending machines in the building? , The information provided does not mention the presence of vending machines. You may want to inquire with building staff for this information. 
+ How many floors are there in the building? ," The information mentions floors ranging from -2 to 10. Therefore, there are 13 floors in total. "
+ Is there an elevator that stops only at the ground floor (0)? ," Lifts A, B, and C stop at the ground floor (0), among other floors mentioned in their descriptions. "
+ Can you provide directions to the nearest exit? , Information about the nearest exit is not provided. You should follow exit signs and inquire with building staff for exit directions. 
+ Are there any meeting rooms in this building? , The provided information does not mention meeting rooms. You may want to check with the building's administration for this information. 
+ How far is the water filter from the MCA lab (room 811)? , The water filter is not directly mentioned to be near the MCA lab. It's located after room 815. You can turn left from room 815 to find it. 
+ Which lifts have access to the 9th floor? , Lifts B and D stop at the 9th floor. 
+ Are there any designated parking areas nearby? , Information about parking areas is not provided. You may want to check with the building's management or signs for parking information. 
+ Where can I find room 811 (MCA lab) from the main entrance? , Directions from the main entrance to room 811 are not provided. You may need to ask for directions upon entering the building. 
+ How can I get to the 1MCA B classroom from Lift C? ," To get to the 1MCA B classroom (room 813) from Lift C, simply walk straight, and it will be on your right. "
+ Is there a reception or information desk in the building? , The presence of a reception or information desk is not mentioned in the provided information. You may need to inquire with building staff or signage for this information. 
+ Are there any cafeterias or food options in the building? , The information does not mention the presence of cafeterias or food options in the building. You may want to check with the building's administration for dining facilities. 
+ How can I access the lifts A and B from the MCA lab (room 811)? ," To access lifts A and B from the MCA lab (room 811), turn left and walk straight. You will find lifts A and B on your left. "
+ What are the operating hours of the lifts in the building? , The operating hours of the lifts are not provided in the information. You may want to inquire with building management or check for any posted schedules. 
+ Are there any security checkpoints or access control in the building? , The presence of security checkpoints or access control is not mentioned. You may need to inquire with building security or administration for security-related information. 
+ Where can I find information about room reservations in the building? , Information about room reservations is not provided. You may need to contact the building's administration or relevant department for room reservation details. 
+ How can I reach the water filter from Lifts C and D? ," To reach the water filter from Lifts C and D, walk straight from the lifts, and you will find it to your left. "
+ Are there any emergency exits marked in the building? ," Information about emergency exits is not provided. In case of an emergency, please follow exit signs and building evacuation procedures. "
+ How do I access the 1MCA B classroom from Lift C?       ," To access the 1MCA B classroom (room 813) from Lift C, simply walk straight, and it will be on your right.                "
+ Is there a directory or map of the building available?  , Information about the availability of a directory or building map is not mentioned. You may want to check with building staff for such resources. 
+ Where can I find the nearest fire extinguisher in the building? ," The location of fire extinguishers is not specified in the information. In case of a fire emergency, follow fire safety procedures and evacuation routes. "
+ Are there any study rooms or quiet areas for students in the building? , The presence of study rooms or quiet areas for students is not mentioned. You may want to inquire with the building's administration or student services for such facilities. 
+ How can I reach the 1MSC AI classroom (room 814) from the lifts? ," To reach the 1MSC AI classroom (room 814) from the lifts, walk straight and continue past room 813. You will find it on your right. "
+ What are the room numbers for the faculty rooms near room 810? , Specific room numbers for the faculty rooms near room 810 are not provided in the information. You may need to inquire with the faculty or staff for these details. 
+ Is there a lost and found area in the building? ," Information about a lost and found area is not mentioned. If you've lost something, you may want to check with building security or administration for lost items. "
+ Are there any security cameras in the building for safety purposes? ," The presence of security cameras is not mentioned. Building security measures may vary, so you may need to inquire with building management for security details. "
+ How can I reach the ladies' washroom from Lift A? ," To reach the ladies' washroom from Lift A, walk straight and continue past room 813. You will find it on your left. "
+ Where can I find room 815 (1MCOM classroom) from the main entrance? , Directions from the main entrance to room 815 are not provided. You may need to ask for directions upon entering the building. 
+ What is the room number for the 1MCA A classroom? , The room number for the 1MCA A classroom is room 812.                                        
+ Which lifts stop at even floors and only go up to the 8th floor? , Lifts A and Lift C stop at even floors and go up to the 8th floor.                
+ How far is the gents washroom from the MCA lab (room 811)? ," The gents washroom is located after room 810, which is right in front of the MCA lab (room 811). "
+ Is there a specific area for faculty members to sit and work? ," Yes, faculty rooms are located to the right as you walk straight from the gents washroom.      "
+" Where can I find the teachers Nizar Banu Ma'am, Suresh Sir? "," These teachers can be found after room 810, which is right in front of the gents washroom.       "
+ Can you provide directions to the nearest staircase going downstairs? , The nearest staircase going downstairs is in front of room 808.                                
+ How can I access the 5MCA B classroom from Lift B? ," To access the 5MCA B classroom (room 809) from Lift B, simply walk straight from the lift.      "
+ What is the room number for the 1MSC AI classroom? , The room number for the 1MSC AI classroom is room 814.                                        
+ Are there any designated parking areas nearby? , Information about designated parking areas nearby is not provided.                               
+ How many floors does the building have? ," The building has a total of 13 floors, ranging from -2 to 10.                                     "
+ Which lifts stop at the 10th floor?         , Only Lifts E and F stop at the 10th floor.                                                         
+ Where is the 5MCA A classroom located?     , The 5MCA A classroom is assigned to room 808.                                                       
+ Is there a map or directory of the building available? , The availability of a map or directory is not mentioned in the information. You may want to inquire with building staff. 
+ How can I access the lifts C and D from room 815? ," To access lifts C and D from room 815, turn left and walk straight. You will find them on your left. "
+ Where can I locate the water filter?       ," The water filter is located after room 815, to your left.                                           "
+ Are there any meeting rooms in this building? , The presence of meeting rooms is not mentioned in the information. You may want to inquire with building administration. 
+ What are the operating hours of the lifts in the building? , The operating hours of the lifts are not provided in the information. You may need to check with building management. 
+ How can I reach the round table area for studying? ," To reach the round table area for studying, continue walking straight after room 813. It will be on your left. "
+ Is there an emergency evacuation plan in the building? , The information does not mention an emergency evacuation plan. You may inquire with building staff or look for posted evacuation plans. 
+ Where is the nearest entrance to the building located? , Information about the nearest entrance is not provided. You may need to inquire with building staff or follow signs. 
+" How can I reach room 812, the 1MCA A classroom, from the gents washroom? "," To reach room 812, the 1MCA A classroom, from the gents washroom, walk straight and it will be on your right. "
+ Which lifts go up to the 8th floor and stop at even-numbered floors? , Lifts A and Lift C go up to the 8th floor and stop at even-numbered floors. 
+ How do I access the water filter in the building from the MCA lab (room 811)? ," To access the water filter from the MCA lab (room 811), turn left, and it will be on your left. "
+ Are there any designated areas for faculty members to work and sit comfortably? ," Yes, faculty rooms are located to the right as you walk straight from the gents washroom. "
+ Can you tell me how to reach the 1MCA A classroom from Lift D? ," To reach the 1MCA A classroom (room 812) from Lift D, simply walk straight, and it will be on your right. "
+ Which lifts in the building stop at odd-numbered floors? , The information provided does not mention lifts that stop at odd-numbered floors. 
+ Is there a cafeteria or dining area inside the building? , The presence of a cafeteria or dining area is not mentioned. You may want to inquire with the building's administration or look for nearby dining options. 
+ How far is the nearest restroom from the main entrance? , Directions to the nearest restroom from the main entrance are not provided. You may need to ask for directions upon entering the building. 
+ How many floors are below ground level in the building? ," The information mentions floors ranging from -2 to 10, indicating that there are 3 floors below ground level. "
+ Can you provide directions to the MCA lab from Lift F? ," To get to the MCA lab (room 811) from Lift F, walk straight, and you will reach it on your left. "
+ Where can I find the 1MCA A classroom (room 812) from the MCA lab (room 811)? ," To locate the 1MCA A classroom (room 812) from the MCA lab (room 811), you can walk straight, and it will be on your right. "
+ Which lifts reach the 8th floor and make stops at even-numbered floors? , Lifts A and Lift C reach the 8th floor and make stops at even-numbered floors. 
+ How can I access the gents washroom from room 813? ," To access the gents washroom from room 813, turn left and walk straight. You will find it on your right. "
+ Is there a specific area where faculty members can work and sit comfortably in the building? ," Yes, faculty rooms are conveniently located to the right as you walk straight from the gents washroom. "
+ What is the route to the 1MCA A classroom (room 812) from Lift E? ," To reach the 1MCA A classroom (room 812) from Lift E, simply walk straight, and you will find it on your right. "
+ Are there any elevators that exclusively serve odd-numbered floors? , The provided information does not mention elevators that exclusively serve odd-numbered floors. 
+ Is there an on-site cafeteria or dining area within the building? , Information about the presence of an on-site cafeteria or dining area is not provided. You may want to inquire with the building's administration or explore nearby dining options. 
+ How close is the nearest restroom to the main entrance? , Directions to the nearest restroom from the main entrance are not specified. You may need to inquire upon entering the building. 
+ What is the number of floors below ground level in the building? ," The information indicates that there are 3 floors below ground level, with floors ranging from -2 to 10. "
+ Can you guide me to the MCA lab (room 811) from Lift D? ," To reach the MCA lab (room 811) from Lift D, walk straight, and you will find it on your left. "
+" How do I locate room 812, the 1MCA A classroom, from the nearest gents washroom? "," To find room 812, the 1MCA A classroom, from the nearest gents washroom, walk straight, and it will be on your right. "
+ Which elevators service even-numbered floors and go up to the 8th floor? , Elevators A and C service even-numbered floors and go up to the 8th floor. 
+ What is the route to the gents washroom from room 813? ," To access the gents washroom from room 813, turn left and proceed straight. You will find it on your right. "
+ Are there designated areas where faculty members can work comfortably in the building? ," Yes, faculty rooms are conveniently situated to the right when walking straight from the gents washroom. "
+ How can I reach the 1MCA A classroom (room 812) from Lift D? ," To reach the 1MCA A classroom (room 812) from Lift D, simply walk straight, and you will encounter it on your right. "
+ Do any elevators exclusively serve odd-numbered floors in the building? , The information provided does not mention elevators that exclusively serve odd-numbered floors. 
+ Is there an onsite dining facility or cafeteria within the building premises? , Information about the presence of an onsite dining facility or cafeteria is not available. You may wish to inquire with the building's administration or explore nearby dining options. 
+ How near is the closest restroom to the building's main entrance? , Directions to the nearest restroom from the main entrance are not specified. You may need to inquire upon entering the building. 
+ How many floors are located below ground level in the building? ," The information suggests that there are 3 floors below ground level, encompassing floors ranging from -2 to 10. "
+ Can you provide directions to the MCA lab (room 811) from Lift E? ," To reach the MCA lab (room 811) from Lift E, simply walk straight, and you will find it on your left. "
+" What's the path to room 812, the 1MCA A classroom, from the nearby men's restroom? "," To find room 812, the 1MCA A classroom, from the nearby men's restroom, walk straight, and it will be on your right. "
+" Which elevators are operational on even-numbered floors, specifically up to the 8th floor? ", Elevators A and C are operational on even-numbered floors and go up to the 8th floor. 
+ How can I access the men's restroom from room 813? ," To access the men's restroom from room 813, turn left and continue straight. You will find it on your right. "
+ Are there dedicated spaces for faculty members to work comfortably in the building? ," Yes, faculty rooms are conveniently located to the right as you proceed straight from the men's restroom. "
+ What's the route to reach the 1MCA A classroom (room 812) from Lift D? ," To reach the 1MCA A classroom (room 812) from Lift D, simply walk straight, and you will encounter it on your right. "
+ Do any elevators exclusively stop at odd-numbered floors within the building? , The provided information does not mention elevators that exclusively stop at odd-numbered floors. 
+ Is there a cafeteria or dining area within the building premises for visitors? , Information about the presence of a cafeteria or dining area is not available. You may want to inquire with the building's administration or explore nearby dining options. 
+ How close is the nearest restroom to the building's primary entrance? , Directions to the nearest restroom from the main entrance are not specified. You may need to inquire upon entering the building. 
+ How many floors exist below ground level in the building? ," The information suggests that there are 3 floors below ground level, encompassing floors ranging from -2 to 10. "
+ Could you guide me to the MCA lab (room 811) from Lift E? ," To reach the MCA lab (room 811) from Lift E, simply walk straight, and you will find it on your left. "
+" How do I navigate to room 812, the 1MCA A classroom, from the adjacent men's restroom? "," To reach room 812, the 1MCA A classroom, from the adjacent men's restroom, proceed straight, and it will be on your right. "
+ Which lifts serve even-numbered floors and have access up to the 8th floor? , Elevators A and C serve even-numbered floors and provide access up to the 8th floor. 
+ What is the pathway to the men's restroom from room 813? ," To access the men's restroom from room 813, turn left and continue straight. It will be on your right. "
+ Are there specific areas designated for faculty members to work comfortably within the building? ," Yes, faculty rooms are conveniently located to the right when walking straight from the men's restroom. "
+ How can I find the 1MCA A classroom (room 812) from Lift D? ," To find the 1MCA A classroom (room 812) from Lift D, simply walk straight, and it will be on your right. "
+ Do any elevators exclusively service odd-numbered floors within the building? , The information does not mention elevators exclusively servicing odd-numbered floors. 
+ Is there an on-site cafeteria or dining area within the building for visitors? , Information about the presence of an on-site cafeteria or dining area is not provided. You may inquire with the building's administration or explore nearby dining options. 
+ How close is the nearest restroom to the building's primary entrance? , Directions to the nearest restroom from the main entrance are not specified. You may need to inquire upon entering the building. 
+ How many floors are below ground level in the building? ," The information suggests that there are 3 floors below ground level, covering floors ranging from -2 to 10. "
+ Can you provide directions to the MCA lab (room 811) from Lift E? ," To reach the MCA lab (room 811) from Lift E, simply walk straight, and you will find it on your left. "
+ Room 812 location?              ," Room 812, the 1MCA A classroom, is located on your right when walking straight from the men's restroom.             "
+ Cafeteria nearby?               , The information does not mention a cafeteria nearby. You may inquire with building staff or explore nearby dining options. 
+ Nearest restroom?               , Directions to the nearest restroom are not specified. You may need to inquire upon entering the building.            
+ Elevators to 8th floor?         , Elevators A and C go up to the 8th floor and serve even-numbered floors.                                               
+ Faculty workspaces?             , Faculty rooms are located to the right when walking straight from the men's restroom.                               
+ Floors below ground?            ," There are 3 floors below ground level, ranging from -2 to 10.                                                           "
+ MCA lab from Lift E?            ," To reach the MCA lab (room 811) from Lift E, walk straight, and you will find it on your left.                         "
+ Emergency exit?                 ," Information about the nearest emergency exit is not mentioned. In case of an emergency, follow exit signs and building evacuation procedures. "
+ Meeting rooms?                  , The presence of meeting rooms is not mentioned in the information.                                                     
+ Directory available?            , Information about the availability of a directory is not mentioned. You may want to check with building staff for such resources. 
+ Is there Wi-Fi on the 8th floor?       , The availability of Wi-Fi on the 8th floor is not specified in the provided information. You may inquire with building staff for Wi-Fi access details. 
+ Are there power outlets on the 10th floor? , Information about power outlets on the 10th floor is not mentioned. You may need to inquire with building staff or explore the floor for outlets. 
+ Is there a water dispenser on the 2nd floor? , The presence of a water dispenser on the 2nd floor is not mentioned. You may want to inquire with building staff or explore the floor for water facilities. 
+ Are there study tables on the 6th floor?  , Information about study tables on the 6th floor is not provided. You may inquire with building staff or explore the floor for study areas. 
+ Are there vending machines on the 4th floor? , The presence of vending machines on the 4th floor is not mentioned. You may want to inquire with building staff or explore the floor for vending options. 
+ Is there a microwave on the 7th floor? , Information about the availability of a microwave on the 7th floor is not specified. You may need to inquire with building staff or explore the floor for such facilities. 
+ How many classrooms on the 9th floor? , The number of classrooms on the 9th floor is not provided. You may want to inquire with building staff or explore the floor for classroom information. 
+ Can I find restrooms on the 5th floor? , Directions to restrooms on the 5th floor are not mentioned. You may need to inquire with building staff or explore the floor for restroom facilities. 
+ Is there a printer on the 3rd floor? , Information about the availability of a printer on the 3rd floor is not specified. You may need to inquire with building staff or explore the floor for printing services. 
+ Do elevators on the 1st floor go to the basement? , Information about elevator access to the basement from the 1st floor is not provided. You may want to inquire with building staff for basement access details. 
+ Can I find Wi-Fi on any specific floor? , The information does not specify the availability of Wi-Fi on any specific floor. 
+ Is there a microwave mentioned for any particular floor? , The information does not specify the availability of a microwave on any particular floor. 
+ Are power outlets mentioned for any specific floor? , The information does not mention power outlets on any specific floor. 
+ Is there information about water coolers on any floor? , The information does not mention water coolers on any specific floor. 
+ Are vending machines mentioned for any particular floor? , The information does not mention vending machines on any specific floor. 
+ Is there any information about photocopiers on any floor? , The information does not mention photocopiers on any specific floor. 
+" Do elevators go to the rooftop, as per the provided information? ", The information does not mention elevator access to the rooftop. 
+ Is there a garden mentioned for any specific floor? , The information does not mention a garden on any specific floor. 
+ Are conference rooms mentioned for any particular floor? , The information does not mention conference rooms on any specific floor. 
+ Are lounge areas mentioned for any specific floor? , The information does not mention lounge areas on any specific floor. 
+Where is CYNTHIA T located?,"CYNTHIA T is situated at 810, EIGHTH Floor, CENTRAL BLOCK."
+Can you tell me the office location of RAJESH KANNA R?,"RAJESH KANNA R's office is at 877, EIGHTH Floor, CENTRAL BLOCK."
+Inform me about the whereabouts of SAGAYA AURELIA P.,"SAGAYA AURELIA P is located at 622, FIRST Floor, BLOCK II."
+Where can I find HUBERT SHANTHAN's office?,"HUBERT SHANTHAN's office is situated at 877, EIGHTH Floor, CENTRAL BLOCK."
+Guide me to the office of DEEPA V JOSE.,"DEEPA V JOSE is located at 881, EIGHTH Floor, CENTRAL BLOCK."
+Tell me where NIZAR BANU P K is situated.,"NIZAR BANU P K is located at 810, EIGHTH Floor, CENTRAL BLOCK."
+Where can I find ASHOK IMMANUEL V's office?,"ASHOK IMMANUEL V is located at 624, FIRST Floor, BLOCK II."
+Tell me the location of CECIL DONALD A.,"CECIL DONALD A's office is situated at 185, FIRST Floor, CENTRAL BLOCK."
+Can you provide the whereabouts of CHANDRA J?,"CHANDRA J is located at 880, EIGHTH Floor, CENTRAL BLOCK."
+Locate CYNTHIA T's office.,"CYNTHIA T's office is at 810, EIGHTH Floor, CENTRAL BLOCK."
+Inform me about the whereabouts of DEEPA V JOSE.,"DEEPA V JOSE is located at 881, EIGHTH Floor, CENTRAL BLOCK."
+Where is GOBI R situated?,"GOBI R is situated at 876, EIGHTH Floor, CENTRAL BLOCK."
+Provide the location of HUBERT SHANTHAN.,"HUBERT SHANTHAN's office is at 877, EIGHTH Floor, CENTRAL BLOCK."
+Tell me where to find KAVITHA R.,"KAVITHA R's office is located at 882, EIGHTH Floor, CENTRAL BLOCK."
+Give me the location of LOKANAYAKI K's office.,"LOKANAYAKI K's office is at 612, SECOND Floor, BLOCK II."
+Where is NISHA VARGHESE located?,"NISHA VARGHESE is located at 874, EIGHTH Floor, CENTRAL BLOCK."
+Guide me to NIZAR BANU P K's office.,"NIZAR BANU P K's office is at 810, EIGHTH Floor, CENTRAL BLOCK."
+Locate POORNIMA N V's office.,"POORNIMA N V's office is at 622, SECOND Floor, BLOCK II."
+Tell me the whereabouts of PRABU P.,"PRABU P is located at 875, EIGHTH Floor, CENTRAL BLOCK."
+Inform me about the location of RAJESH KANNA R.,"RAJESH KANNA R is located at 877, EIGHTH Floor, CENTRAL BLOCK."
+Where can I find ROHINI V's office?,"ROHINI V's office is at 12, FIRST Floor, BLOCK II."
+Guide me to SAGAYA AURELIA P's office.,"SAGAYA AURELIA P's office is at 622, FIRST Floor, BLOCK II."
+Inform me about the whereabouts of SANDEEP J.,"SANDEEP J is located at 622, FIRST Floor, BLOCK II."
+Tell me where SENTHILNATHAN T's office is.,"SENTHILNATHAN T's office is at 816, EIGHTH Floor, CENTRAL BLOCK."
+Where is SHONEY SEBASTIAN's office situated?,"SHONEY SEBASTIAN's office is on the GROUND Floor, R & D Block."
+Provide the location of SOMNATH SINHA.,"SOMNATH SINHA is located at 878, EIGHTH Floor, CENTRAL BLOCK."
+Inform me about the whereabouts of SRIDEVI R.,"SRIDEVI R is situated at 810, EIGHTH Floor, CENTRAL BLOCK."
+Where can I find SUDHAKAR T's office?,"SUDHAKAR T's office is at 878, EIGHTH Floor, CENTRAL BLOCK."
+Guide me to SURESH K's office.,"SURESH K's office is at 810, EIGHTH Floor, CENTRAL BLOCK."
+Tell me the location of THIRUNAVUKKARASU V's office.,"THIRUNAVUKKARASU V's office is at 879, EIGHTH Floor, CENTRAL BLOCK."
+Inform me about the whereabouts of VAIDHEHI V.,"VAIDHEHI V is located at 879, EIGHTH Floor, CENTRAL BLOCK."
+Where is ASHOK IMMANUEL V?,"ASHOK IMMANUEL V is located at 624, FIRST Floor, BLOCK II."
+Where is CECIL DONALD A?,"CECIL DONALD A is located at 185, FIRST Floor, CENTRAL BLOCK."
+Where is CHANDRA J?,"CHANDRA J is located at 880, EIGHTH Floor, CENTRAL BLOCK."
+Where is CYNTHIA T?,"CYNTHIA T is located at 810, EIGHTH Floor, CENTRAL BLOCK."
+Where is DEEPA V JOSE?,"DEEPA V JOSE is located at 881, EIGHTH Floor, CENTRAL BLOCK."
+Where is GOBI R?,"GOBI R is located at 876, EIGHTH Floor, CENTRAL BLOCK."
+Where is HUBERT SHANTHAN?,"HUBERT SHANTHAN is located at 877, EIGHTH Floor, CENTRAL BLOCK."
+Where is KAVITHA R?,"KAVITHA R is located at 882, EIGHTH Floor, CENTRAL BLOCK."
+Where is LOKANAYAKI K?,"LOKANAYAKI K is located at 612, SECOND Floor, BLOCK II."
+Where is NISHA VARGHESE?,"NISHA VARGHESE is located at 874, EIGHTH Floor, CENTRAL BLOCK."
+Where is NIZAR BANU P K?,"NIZAR BANU P K is located at 810, EIGHTH Floor, CENTRAL BLOCK."
+Where is POORNIMA N V?,"POORNIMA N V is located at 622, SECOND Floor, BLOCK II."
+Where is PRABU P?,"PRABU P is located at 875, EIGHTH Floor, CENTRAL BLOCK."
+Where is RAJESH KANNA R?,"RAJESH KANNA R is located at 877, EIGHTH Floor, CENTRAL BLOCK."
+Where is ROHINI V?,"ROHINI V is located at 12, FIRST Floor, BLOCK II."
+Where is SAGAYA AURELIA P?,"SAGAYA AURELIA P is located at 622, FIRST Floor, BLOCK II."
+Where is SANDEEP J?,"SANDEEP J is located at 622, FIRST Floor, BLOCK II."
+Where is SENTHILNATHAN T?,"SENTHILNATHAN T is located at 816, EIGHTH Floor, CENTRAL BLOCK."
+Where is SHONEY SEBASTIAN?,"SHONEY SEBASTIAN is the Director, located on the GROUND Floor, R & D Block."
+Where is SOMNATH SINHA?,"SOMNATH SINHA is located at 878, EIGHTH Floor, CENTRAL BLOCK."
+Where is SRIDEVI R?,"SRIDEVI R is located at 810, EIGHTH Floor, CENTRAL BLOCK."
+Where is SUDHAKAR T?,"SUDHAKAR T is located at 878, EIGHTH Floor, CENTRAL BLOCK."
+Where is SURESH K?,"SURESH K is located at 810, EIGHTH Floor, CENTRAL BLOCK."
+Where is THIRUNAVUKKARASU V?,"THIRUNAVUKKARASU V is located at 879, EIGHTH Floor, CENTRAL BLOCK."
+Where is VAIDHEHI V?,"VAIDHEHI V is located at 879, EIGHTH Floor, CENTRAL BLOCK."
+"""hello""","""Hello, how are you ?"""
